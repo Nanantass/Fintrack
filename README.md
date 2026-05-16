@@ -1,4 +1,5 @@
-# FinTrack — Sistem Manajemen Keuangan
+# FinTrack 
+Sistem Manajemen Keuangan
 
 > Tugas Besar Pemrograman Berorientasi Objek  
 > Aplikasi manajemen keuangan berbasis web (Spring Boot + React)
